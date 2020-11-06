@@ -1,7 +1,6 @@
 # İlişkisel Veritabanı Yönetim Sistemleri (İVTYS)
 # Relational Database Management Systems (RDBMS)
-İlişkisel Veritabanı Yönetim Sistemlerinde(İVTYS) veriler tablolar içerisinde satırlar ve sütunlarda tutulur. Birbiri ile ilişkili verileri tuttuğumuz tablolar arasında ilişki (bağ) kurarak veritabanımızı inşa etmemizi sağlayan sistemlere ise İlişkisel Veritabanı Yönetim Sistemleri denir.
-
+İlişkisel Veritabanı Yönetim Sistemlerinde(İVTYS) veriler tablolar içerisinde satırlar ve sütunlarda tutulur. Birbiri ile ilişkili verileri tuttuğumuz tablolar arasında ilişki (bağ) kurarak veritabanımızı inşa etmemizi sağlar. Bu sisteme ise İlişkisel Veritabanı Yönetim Sistemleri denir.
 
 ## Veritabanı Nedir?
 Veritabanı (database) en basit şekliyle verilerin tutulduğu, depolandığı bir sistemdir. Bilgisayar terminolojisinde yönetilebilir, güncellenebilir, taşınabilir bilgiler topluluğu olarak da adlandırılır. Veritabanlarını yöneten sistemlere de veritabanı yönetim sistemleri (VTYS, database management sytems) adı verilir. VTYS, yeni bir veritabanı yaratmak, veritabanlarını düzenlemek, güncelleme yapmak ve geliştirmek gibi birçok işlemin yapılmasını sağlar. Kullanıcı ile veritabanı arasında bir köprü görevi görür ve kullanıcının istediği bilgilere ulaşmasına yardımcı olur. Günümüzde en çok kullanılan başlıca veritabanları şunlardır; MySQL, Oracle, Microsoft SQL Server.
